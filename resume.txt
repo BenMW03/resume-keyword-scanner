@@ -1,0 +1,1 @@
+Python developer experienced in Flask, Django, SQL, data analysis, and web scraping. Familiar with REST APIs, Git, and Agile workflows.
